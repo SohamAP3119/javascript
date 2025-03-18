@@ -33,3 +33,14 @@ console.log(Object.keys(tinderUser))
 console.log(Object.values(tinderUser))
 
 console.log(tinderUser.hasOwnProperty('isLoggedIn')) 
+
+//**********************JSON API
+// {
+//     "name" : "Soham",
+//     "coursename" : "code with chai"
+// }
+[
+    {},
+    {},
+    {}
+]
